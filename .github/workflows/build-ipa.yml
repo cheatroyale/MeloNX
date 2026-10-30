@@ -1,3 +1,4 @@
+# Test-branch trigger only; this branch uploads an artifact and never changes the public release.
 name: Build MeloNX IPA (unsigned)
 
 on:
